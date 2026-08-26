@@ -134,4 +134,3 @@ Each project has its own visual identity while following the same presentation p
 
 UI/UX Designer
 
-GitHub: https://github.com/kseniche
