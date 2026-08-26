@@ -19,7 +19,6 @@ A conceptual SaaS landing page for an AI-assisted content platform.
 
 **Tools**
 - Figma
-- Photoshop
 
 [View Promptly AI case study in Figma](https://www.figma.com/design/Ok5c4n6HTynuxw9zeKTe3e/Promptly-AI?node-id=91-319&t=tazqdTQj0n3IcKWw-1)
 
