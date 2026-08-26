@@ -1,4 +1,4 @@
-UI/UX Design Portfolio
+# UI/UX Design Portfolio
 
 A personal portfolio website built with React to present my UI/UX and product design work.
 
